@@ -1,0 +1,20 @@
+header{
+    background-color: #f403fc;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-bottom:25px;
+}
+main{
+    background-color: #87898a;
+    border:5px solid red;
+    width:600px;
+    padding:5px;
+}
+footer{
+    background-color: #3b1dc2;
+    padding: 25px 0;
+    margin-top:25px;
+    text-align: center;
+    color:beige;
+}
